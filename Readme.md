@@ -1,3 +1,23 @@
-Data/ExchangeRates.csv - https://drive.google.com/file/d/1tMTXWU9xhaU2s-0PVlElpfZ-vLLUIGla/view?usp=sharing
+<center> <img src = https://raw.githubusercontent.com/AndreyRysistov/DatasetsForPandas/main/hh%20label.jpg alt='drawing' style='width:400px;'></center>
 
-Data/dst-3.0_16_1_hh_database.csv - https://drive.google.com/file/d/1BtmunygP1kGJUR3rsrhKdf3D7RRFrSmd/view?usp=share_link
+# <center> ОПИСАНИЕ ЗАДАЧИ </center>
+
+В вашем распоряжении будет база резюме, выгруженная с сайта поиска вакансий hh.ru.
+
+Файл с исходными данными вы можете скачать [здесь](https://drive.google.com/file/d/1Kb78mAWYKcYlellTGhIjPI-bCcKbGuTn/view?usp=sharing).
+
+Проблематика: часть соискателей не указывает желаемую заработную плату, когда составляет своё резюме.
+
+Чем это плохо?
+
+⭐ Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Но, как вы знаете, прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и состоит наша с вами задача!
+
+Наш проект будет состоять из четырёх частей:
+
+1. базовый анализ структуры данных
+
+2. преобразование данных
+
+3. разведывательный анализ
+
+4. очистка данных
